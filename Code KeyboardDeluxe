@@ -1,0 +1,41 @@
+local CollectionService = game:GetService("CollectionService")
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local Players = game:GetService("Players")
+local VirtualInputManager = game:GetService("VirtualInputManager")
+local plr = Players.LocalPlayer
+local playerGui = plr:WaitForChild("PlayerGui")
+
+local Max = {}
+
+Max["ScreenGui_1"] = Instance.new("ScreenGui", playerGui)
+Max["ScreenGui_1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling
+Max["ScreenGui_1"]["Name"] = "KeyboardDeluxe"
+Max["ScreenGui_1"]["ResetOnSpawn"] = false
+
+CollectionService:AddTag(Max["ScreenGui_1"], "main")
+
+Max["Frame_2"] = Instance.new("Frame", Max["ScreenGui_1"])
+Max["Frame_2"]["BorderSizePixel"] = 0
+Max["Frame_2"]["BackgroundColor3"] = Color3.fromRGB(35, 35, 35)
+Max["Frame_2"]["Size"] = UDim2.new(0.46186, 0, 0.59418, 0)
+Max["Frame_2"]["Position"] = UDim2.new(0.29107, 0, 0.11318, 0)
+Max["Frame_2"]["BackgroundTransparency"] = 0.4
+Max["Frame_2"]["Active"] = true
+Max["Frame_2"]["Selectable"] = true
+Max["Frame_2"].Active = true
+Max["Frame_2"].Draggable = true
+
+
+Max["TextLabel_43"] = Instance.new("TextLabel", Max["Frame_2"])
+Max["TextLabel_43"]["TextWrapped"] = true
+Max["TextLabel_43"]["BorderSizePixel"] = 0
+Max["TextLabel_43"]["TextSize"] = 12
+Max["TextLabel_43"]["TextXAlignment"] = Enum.TextXAlignment.Left
+Max["TextLabel_43"]["BackgroundColor3"] = Color3.fromRGB(39, 39, 39)
+Max["TextLabel_43"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["TextLabel_43"]["BackgroundTransparency"] = 0.5
+Max["TextLabel_43"]["Size"] = UDim2.new(0.79167, 0, 0.13333, 0)
+Max["TextLabel_43"]["Text"] = "BetterKeyboard | Made by MaxproGlitcher"
+Max["UICorner_44"] = Instance.new("UICorner", Max["TextLabel_43"])

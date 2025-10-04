@@ -39,3 +39,53 @@ Max["TextLabel_43"]["BackgroundTransparency"] = 0.5
 Max["TextLabel_43"]["Size"] = UDim2.new(0.79167, 0, 0.13333, 0)
 Max["TextLabel_43"]["Text"] = "BetterKeyboard | Made by MaxproGlitcher"
 Max["UICorner_44"] = Instance.new("UICorner", Max["TextLabel_43"])
+
+Max["UICorner_3"] = Instance.new("UICorner", Max["Frame_2"])
+
+Max["Line1"] = Instance.new("Folder", Max["Frame_2"])
+Max["Line1"]["Name"] = "Line1"
+
+Max["Line2"] = Instance.new("Folder", Max["Frame_2"])
+Max["Line2"]["Name"] = "Line2"
+
+Max["Line3"] = Instance.new("Folder", Max["Frame_2"])
+Max["Line3"]["Name"] = "Line3"
+
+Max["Line4"] = Instance.new("Folder", Max["Frame_2"])
+Max["Line4"]["Name"] = "Line4"
+
+Max["Line5"] = Instance.new("Folder", Max["Frame_2"])
+Max["Line5"]["Name"] = "Line5"
+
+Max["ESC"] = Instance.new("TextButton", Max["Line1"])
+Max["ESC"]["BorderSizePixel"] = 0
+Max["ESC"]["TextSize"] = 12
+Max["ESC"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["ESC"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["ESC"]["BackgroundTransparency"] = 0.5
+Max["ESC"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["ESC"]["Text"] = "ESC"
+Max["ESC"]["Position"] = UDim2.new(0, 4, 0, 30)
+Max["UICorner_53"] = Instance.new("UICorner", Max["ESC"])
+
+Max["F1"] = Instance.new("TextButton", Max["Line1"])
+Max["F1"]["BorderSizePixel"] = 0
+Max["F1"]["TextSize"] = 12
+Max["F1"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["F1"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["F1"]["BackgroundTransparency"] = 0.5
+Max["F1"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["F1"]["Text"] = "F1"
+Max["F1"]["Position"] = UDim2.new(0, 42, 0, 30)
+Max["UICorner_55"] = Instance.new("UICorner", Max["F1"])
+
+Max["F2"] = Instance.new("TextButton", Max["Line1"])
+Max["F2"]["BorderSizePixel"] = 0
+Max["F2"]["TextSize"] = 12
+Max["F2"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["F2"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["F2"]["BackgroundTransparency"] = 0.5
+Max["F2"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["F2"]["Text"] = "F2"
+Max["F2"]["Position"] = UDim2.new(0, 80, 0, 30)
+Max["UICorner_57"] = Instance.new("UICorner", Max["F2"])

@@ -435,3 +435,165 @@ Max["V"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
 Max["V"]["Text"] = "V"
 Max["V"]["Position"] = UDim2.new(0, 118, 0, 138)
 Max["UICorner_42"] = Instance.new("UICorner", Max["V"])
+
+
+Max["B"] = Instance.new("TextButton", Max["Line4"])
+Max["B"]["BorderSizePixel"] = 0
+Max["B"]["TextSize"] = 12
+Max["B"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["B"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["B"]["BackgroundTransparency"] = 0.5
+Max["B"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["B"]["Text"] = "B"
+Max["B"]["Position"] = UDim2.new(0, 156, 0, 138)
+Max["UICorner_38"] = Instance.new("UICorner", Max["B"])
+
+Max["N"] = Instance.new("TextButton", Max["Line4"])
+Max["N"]["BorderSizePixel"] = 0
+Max["N"]["TextSize"] = 12
+Max["N"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["N"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["N"]["BackgroundTransparency"] = 0.5
+Max["N"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["N"]["Text"] = "N"
+Max["N"]["Position"] = UDim2.new(0, 194, 0, 138)
+Max["UICorner_36"] = Instance.new("UICorner", Max["N"])
+
+Max["M"] = Instance.new("TextButton", Max["Line4"])
+Max["M"]["BorderSizePixel"] = 0
+Max["M"]["TextSize"] = 12
+Max["M"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["M"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["M"]["BackgroundTransparency"] = 0.5
+Max["M"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["M"]["Text"] = "M"
+Max["M"]["Position"] = UDim2.new(0, 232, 0, 138)
+Max["UICorner_32"] = Instance.new("UICorner", Max["M"])
+
+
+Max["Comma"] = Instance.new("TextButton", Max["Line4"])
+Max["Comma"]["BorderSizePixel"] = 0
+Max["Comma"]["TextSize"] = 12
+Max["Comma"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["Comma"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["Comma"]["BackgroundTransparency"] = 0.5
+Max["Comma"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["Comma"]["Text"] = ","
+Max["Comma"]["Position"] = UDim2.new(0, 270, 0, 138)
+Max["UICorner_3a"] = Instance.new("UICorner", Max["Comma"])
+
+Max["Period"] = Instance.new("TextButton", Max["Line4"])
+Max["Period"]["BorderSizePixel"] = 0
+Max["Period"]["TextSize"] = 12
+Max["Period"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["Period"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["Period"]["BackgroundTransparency"] = 0.5
+Max["Period"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["Period"]["Text"] = "."
+Max["Period"]["Position"] = UDim2.new(0, 308, 0, 138)
+Max["UICorner_30"] = Instance.new("UICorner", Max["Period"])
+
+Max["Slash"] = Instance.new("TextButton", Max["Line4"])
+Max["Slash"]["BorderSizePixel"] = 0
+Max["Slash"]["TextSize"] = 12
+Max["Slash"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["Slash"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["Slash"]["BackgroundTransparency"] = 0.5
+Max["Slash"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["Slash"]["Text"] = "/"
+Max["Slash"]["Position"] = UDim2.new(0, 346, 0, 138)
+Max["UICorner_34"] = Instance.new("UICorner", Max["Slash"])
+
+Max["LeftCtrl"] = Instance.new("TextButton", Max["Line5"])
+Max["LeftCtrl"]["BorderSizePixel"] = 0
+Max["LeftCtrl"]["TextSize"] = 12
+Max["LeftCtrl"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["LeftCtrl"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["LeftCtrl"]["BackgroundTransparency"] = 0.5
+Max["LeftCtrl"]["Size"] = UDim2.new(0.19271, 0, 0.15238, 0)
+Max["LeftCtrl"]["Text"] = "CTRL"
+Max["LeftCtrl"]["Position"] = UDim2.new(0, 4, 0, 174)
+Max["UICorner_5d"] = Instance.new("UICorner", Max["LeftCtrl"])
+
+Max["LeftAlt"] = Instance.new("TextButton", Max["Line5"])
+Max["LeftAlt"]["BorderSizePixel"] = 0
+Max["LeftAlt"]["TextSize"] = 12
+Max["LeftAlt"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["LeftAlt"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["LeftAlt"]["BackgroundTransparency"] = 0.5
+Max["LeftAlt"]["Size"] = UDim2.new(0.14583, 0, 0.15238, 0)
+Max["LeftAlt"]["Text"] = "ALT"
+Max["LeftAlt"]["Position"] = UDim2.new(0, 82, 0, 174)
+Max["UICorner_61"] = Instance.new("UICorner", Max["LeftAlt"])
+
+Max["Space"] = Instance.new("TextButton", Max["Line5"])
+Max["Space"]["BorderSizePixel"] = 0
+Max["Space"]["TextSize"] = 12
+Max["Space"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["Space"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["Space"]["BackgroundTransparency"] = 0.5
+Max["Space"]["Size"] = UDim2.new(0.26563, 0, 0.15238, 0)
+Max["Space"]["Text"] = "SPACE"
+Max["Space"]["Position"] = UDim2.new(0, 142, 0, 174)
+Max["UICorner_65"] = Instance.new("UICorner", Max["Space"])
+
+Max["RightAlt"] = Instance.new("TextButton", Max["Line5"])
+Max["RightAlt"]["BorderSizePixel"] = 0
+Max["RightAlt"]["TextSize"] = 12
+Max["RightAlt"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["RightAlt"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["RightAlt"]["BackgroundTransparency"] = 0.5
+Max["RightAlt"]["Size"] = UDim2.new(0.14583, 0, 0.15238, 0)
+Max["RightAlt"]["Text"] = "ALT"
+Max["RightAlt"]["Position"] = UDim2.new(0, 248, 0, 174)
+Max["UICorner_63"] = Instance.new("UICorner", Max["RightAlt"])
+
+Max["RightCtrl"] = Instance.new("TextButton", Max["Line5"])
+Max["RightCtrl"]["BorderSizePixel"] = 0
+Max["RightCtrl"]["TextSize"] = 12
+Max["RightCtrl"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["RightCtrl"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["RightCtrl"]["BackgroundTransparency"] = 0.5
+Max["RightCtrl"]["Size"] = UDim2.new(0.1875, 0, 0.15238, 0)
+Max["RightCtrl"]["Text"] = "CTRL"
+Max["RightCtrl"]["Position"] = UDim2.new(0, 308, 0, 174)
+Max["UICorner_5f"] = Instance.new("UICorner", Max["RightCtrl"])
+
+Max["Minimizer"] = Instance.new("TextButton", Max["Frame_2"])
+Max["Minimizer"]["BorderSizePixel"] = 0
+Max["Minimizer"]["TextSize"] = 20
+Max["Minimizer"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["Minimizer"]["BackgroundColor3"] = Color3.fromRGB(39, 39, 39)
+Max["Minimizer"]["BackgroundTransparency"] = 0.5
+Max["Minimizer"]["Size"] = UDim2.new(0.08854, 0, 0.13333, 0)
+Max["Minimizer"]["Text"] = "-"
+Max["Minimizer"]["Position"] = UDim2.new(0.80208, 0, 0, 0)
+Max["UICorner_67"] = Instance.new("UICorner", Max["Minimizer"])
+
+
+Max["Close"] = Instance.new("TextButton", Max["Frame_2"])
+Max["Close"]["BorderSizePixel"] = 0
+Max["Close"]["TextSize"] = 20
+Max["Close"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["Close"]["BackgroundColor3"] = Color3.fromRGB(39, 39, 39)
+Max["Close"]["BackgroundTransparency"] = 0.5
+Max["Close"]["Size"] = UDim2.new(0.08854, 0, 0.13333, 0)
+Max["Close"]["Text"] = "×"
+Max["Close"]["Position"] = UDim2.new(0.90104, 0, 0, 0)
+Max["UICorner_69"] = Instance.new("UICorner", Max["Close"])
+
+Max["ShowButton"] = Instance.new("TextButton", Max["ScreenGui_1"])
+Max["ShowButton"]["BorderSizePixel"] = 0
+Max["ShowButton"]["TextSize"] = 20
+Max["ShowButton"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["ShowButton"]["BackgroundColor3"] = Color3.fromRGB(39, 39, 39)
+Max["ShowButton"]["BackgroundTransparency"] = 0.3
+Max["ShowButton"]["Size"] = UDim2.new(0, 40, 0, 40)
+Max["ShowButton"]["Text"] = "+"
+Max["ShowButton"]["Position"] = UDim2.new(0, 10, 0, 10)
+Max["ShowButton"]["Visible"] = false
+Max["UICorner_Show"] = Instance.new("UICorner", Max["ShowButton"])
+
+Max["UIStroke_5a"] = Instance.new("UIStroke", Max["Frame_2"])
+Max["UIAspectRatioConstraint_6a"] = Instance.new("UIAspectRatioConstraint", Max["Frame_2"])
+Max["UIAspectRatioConstraint_6a"]["AspectRatio"] = 1.82857

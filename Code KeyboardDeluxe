@@ -201,16 +201,17 @@ Max["E"]["Position"] = UDim2.new(0, 80, 0, 66)
 Max["UICorner_2b"] = Instance.new("UICorner", Max["E"])
 
 
-Max["E"] = Instance.new("TextButton", Max["Line2"])
-Max["E"]["BorderSizePixel"] = 0
-Max["E"]["TextSize"] = 12
-Max["E"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
-Max["E"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
-Max["E"]["BackgroundTransparency"] = 0.5
-Max["E"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
-Max["E"]["Text"] = "E"
-Max["E"]["Position"] = UDim2.new(0, 80, 0, 66)
-Max["UICorner_2b"] = Instance.new("UICorner", Max["E"])
+
+Max["R"] = Instance.new("TextButton", Max["Line2"])
+Max["R"]["BorderSizePixel"] = 0
+Max["R"]["TextSize"] = 12
+Max["R"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["R"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["R"]["BackgroundTransparency"] = 0.5
+Max["R"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["R"]["Text"] = "R"
+Max["R"]["Position"] = UDim2.new(0, 118, 0, 66)
+Max["UICorner_2d"] = Instance.new("UICorner", Max["R"])
 
 Max["T"] = Instance.new("TextButton", Max["Line2"])
 Max["T"]["BorderSizePixel"] = 0

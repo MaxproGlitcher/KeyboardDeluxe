@@ -1,3 +1,4 @@
+
 local CollectionService = game:GetService("CollectionService")
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
@@ -37,7 +38,7 @@ Max["TextLabel_43"]["BackgroundColor3"] = Color3.fromRGB(39, 39, 39)
 Max["TextLabel_43"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
 Max["TextLabel_43"]["BackgroundTransparency"] = 0.5
 Max["TextLabel_43"]["Size"] = UDim2.new(0.79167, 0, 0.13333, 0)
-Max["TextLabel_43"]["Text"] = "BetterKeyboard | Made by MaxproGlitcher"
+Max["TextLabel_43"]["Text"] = "KeyboardDeluxe | Made by MaxproGlitcher"
 Max["UICorner_44"] = Instance.new("UICorner", Max["TextLabel_43"])
 
 Max["UICorner_3"] = Instance.new("UICorner", Max["Frame_2"])

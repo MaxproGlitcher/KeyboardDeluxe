@@ -301,3 +301,137 @@ Max["S"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
 Max["S"]["Text"] = "S"
 Max["S"]["Position"] = UDim2.new(0, 42, 0, 102)
 Max["UICorner_14"] = Instance.new("UICorner", Max["S"])
+
+
+Max["D"] = Instance.new("TextButton", Max["Line3"])
+Max["D"]["BorderSizePixel"] = 0
+Max["D"]["TextSize"] = 12
+Max["D"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["D"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["D"]["BackgroundTransparency"] = 0.5
+Max["D"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["D"]["Text"] = "D"
+Max["D"]["Position"] = UDim2.new(0, 80, 0, 102)
+Max["UICorner_16"] = Instance.new("UICorner", Max["D"])
+
+Max["F"] = Instance.new("TextButton", Max["Line3"])
+Max["F"]["BorderSizePixel"] = 0
+Max["F"]["TextSize"] = 12
+Max["F"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["F"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["F"]["BackgroundTransparency"] = 0.5
+Max["F"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["F"]["Text"] = "F"
+Max["F"]["Position"] = UDim2.new(0, 118, 0, 102)
+Max["UICorner_18"] = Instance.new("UICorner", Max["F"])
+
+Max["G"] = Instance.new("TextButton", Max["Line3"])
+Max["G"]["BorderSizePixel"] = 0
+Max["G"]["TextSize"] = 12
+Max["G"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["G"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["G"]["BackgroundTransparency"] = 0.5
+Max["G"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["G"]["Text"] = "G"
+Max["G"]["Position"] = UDim2.new(0, 156, 0, 102)
+Max["UICorner_e"] = Instance.new("UICorner", Max["G"])
+
+Max["H"] = Instance.new("TextButton", Max["Line3"])
+Max["H"]["BorderSizePixel"] = 0
+Max["H"]["TextSize"] = 12
+Max["H"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["H"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["H"]["BackgroundTransparency"] = 0.5
+Max["H"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["H"]["Text"] = "H"
+Max["H"]["Position"] = UDim2.new(0, 194, 0, 102)
+Max["UICorner_c"] = Instance.new("UICorner", Max["H"])
+
+Max["J"] = Instance.new("TextButton", Max["Line3"])
+Max["J"]["BorderSizePixel"] = 0
+Max["J"]["TextSize"] = 12
+Max["J"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["J"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["J"]["BackgroundTransparency"] = 0.5
+Max["J"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["J"]["Text"] = "J"
+Max["J"]["Position"] = UDim2.new(0, 232, 0, 102)
+Max["UICorner_8"] = Instance.new("UICorner", Max["J"])
+
+Max["K"] = Instance.new("TextButton", Max["Line3"])
+Max["K"]["BorderSizePixel"] = 0
+Max["K"]["TextSize"] = 12
+Max["K"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["K"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["K"]["BackgroundTransparency"] = 0.5
+Max["K"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["K"]["Text"] = "K"
+Max["K"]["Position"] = UDim2.new(0, 270, 0, 102)
+Max["UICorner_10"] = Instance.new("UICorner", Max["K"])
+
+
+Max["L"] = Instance.new("TextButton", Max["Line3"])
+Max["L"]["BorderSizePixel"] = 0
+Max["L"]["TextSize"] = 12
+Max["L"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["L"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["L"]["BackgroundTransparency"] = 0.5
+Max["L"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["L"]["Text"] = "L"
+Max["L"]["Position"] = UDim2.new(0, 308, 0, 102)
+Max["UICorner_6"] = Instance.new("UICorner", Max["L"])
+
+Max["Semicolon"] = Instance.new("TextButton", Max["Line3"])
+Max["Semicolon"]["BorderSizePixel"] = 0
+Max["Semicolon"]["TextSize"] = 12
+Max["Semicolon"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["Semicolon"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["Semicolon"]["BackgroundTransparency"] = 0.5
+Max["Semicolon"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["Semicolon"]["Text"] = ";"
+Max["Semicolon"]["Position"] = UDim2.new(0, 346, 0, 102)
+Max["UICorner_a"] = Instance.new("UICorner", Max["Semicolon"])
+
+Max["Z"] = Instance.new("TextButton", Max["Line4"])
+Max["Z"]["BorderSizePixel"] = 0
+Max["Z"]["TextSize"] = 12
+Max["Z"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["Z"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["Z"]["BackgroundTransparency"] = 0.5
+Max["Z"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["Z"]["Text"] = "Z"
+Max["Z"]["Position"] = UDim2.new(0, 4, 0, 138)
+Max["UICorner_3c"] = Instance.new("UICorner", Max["Z"])
+
+Max["X"] = Instance.new("TextButton", Max["Line4"])
+Max["X"]["BorderSizePixel"] = 0
+Max["X"]["TextSize"] = 12
+Max["X"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["X"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["X"]["BackgroundTransparency"] = 0.5
+Max["X"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["X"]["Text"] = "X"
+Max["X"]["Position"] = UDim2.new(0, 42, 0, 138)
+Max["UICorner_3e"] = Instance.new("UICorner", Max["X"])
+
+Max["C"] = Instance.new("TextButton", Max["Line4"])
+Max["C"]["BorderSizePixel"] = 0
+Max["C"]["TextSize"] = 12
+Max["C"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["C"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["C"]["BackgroundTransparency"] = 0.5
+Max["C"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["C"]["Text"] = "C"
+Max["C"]["Position"] = UDim2.new(0, 80, 0, 138)
+Max["UICorner_40"] = Instance.new("UICorner", Max["C"])
+
+Max["V"] = Instance.new("TextButton", Max["Line4"])
+Max["V"]["BorderSizePixel"] = 0
+Max["V"]["TextSize"] = 12
+Max["V"]["TextColor3"] = Color3.fromRGB(255, 255, 255)
+Max["V"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0)
+Max["V"]["BackgroundTransparency"] = 0.5
+Max["V"]["Size"] = UDim2.new(0.08854, 0, 0.15238, 0)
+Max["V"]["Text"] = "V"
+Max["V"]["Position"] = UDim2.new(0, 118, 0, 138)
+Max["UICorner_42"] = Instance.new("UICorner", Max["V"])
